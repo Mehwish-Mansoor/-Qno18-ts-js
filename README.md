@@ -1,2 +1,2 @@
-# Qn01-t8s-js
+Qno 18ts/js
 Qno18 0f 45 assignment
